@@ -9,6 +9,7 @@ VRChat の早押しクイズワールド **DewQuiz** が実行時に読み込む
   Quiz Works の「[このサイトについて](https://quiz-works.com/about)」に
   「このサイトに掲載されるクイズはすべて自由に二次利用可能です」とあることに基づきます。
 - 元にしたデータセット: [hpprc/quiz-works](https://huggingface.co/datasets/hpprc/quiz-works)(Hugging Face。2024年8月時点のクイズ)
+- それより後に掲載されたクイズ: Quiz Works の各問題のページから取得(2026年10月)
 - タグ・難易度: Quiz Works の各問題のページから取得(2026年10月)
 - 入力用の読み: このワールドのために作成(漢字はひらがな、それ以外は元の表記)
 
