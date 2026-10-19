@@ -1,0 +1,5 @@
+Questions adapted from OpenTriviaQA by uberspot and contributors.
+https://github.com/uberspot/OpenTriviaQA
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Changes: automatic screening, deduplication, whitespace/encoding cleanup, answer-input normalization, DewQuiz format.
+Difficulty is unrated. Candidate questions have not been individually fact-checked.
