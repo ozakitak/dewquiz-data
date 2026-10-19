@@ -1,0 +1,9 @@
+QANTA 2018 dataset, University of Maryland QANTA project and contributing quizbowl authors.
+Source: https://pinafore.github.io/qanta-leaderboard/
+Mirror: https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.train.2018.04.18.json
+Original tournaments: A Bit of Lit; BHSAT; BISB (Brookwood Invitational Scholars' Bowl); Brookwood Invitational Scholars Bowl; Collaborative MS Tournament; Fall Kickoff Tournament (FKT); GSAC XXIII; JAMES; Ladue Invitational Sprint Tournament (LIST); NTSS; NTV; New Trier Scobol Solo; SCOP; SCOP 6 MS; Scobol Solo; WHAQ.
+Question-level source IDs, tournaments, years, and original text/answers: provenance.json and review.json.
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+https://creativecommons.org/licenses/by-sa/4.0/
+Adaptations by DewQuiz contributors: Middle School / Easy High School / Regular High School selection, moderator/pronunciation annotation cleanup, single canonical answer selection, ASCII input normalization, category label Trash renamed Pop Culture, duplicate/time-reference screening, DewQuiz packaging. Adapted data remains CC BY-SA 4.0.
+Source difficulty describes tournament audience, not a 1-5 rating. Not individually fact-checked. No endorsement by the source authors is implied.
